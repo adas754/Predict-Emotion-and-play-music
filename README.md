@@ -1,3 +1,4 @@
+Predict child emotion and play music based on emotion
 Library
 
 1. Tensorflow
